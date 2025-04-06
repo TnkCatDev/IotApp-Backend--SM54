@@ -1,4 +1,4 @@
-CREATE DATABASE iotapp;
+CREATE DATABASE iotapp_saves;
 
 USE iotapp_saves;
 
